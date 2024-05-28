@@ -5,7 +5,7 @@
 <h1>Hi, i'm Max</h1>
 <b>Pronouns:</b> He/Him<br>
 <b>Discord:</b> maxg_<br>
-&nbsp;
+&nbsp;<br>
 
 </body>
 <footer>
